@@ -11,6 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
+        echo "teste_jacy";
         // put your code here
         ?>
     </body>
