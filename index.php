@@ -12,6 +12,7 @@ and open the template in the editor.
     <body>
         <?php
         echo "teste_jacy";
+        echo "sup";
         // put your code here
         ?>
     </body>
