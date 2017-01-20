@@ -13,6 +13,8 @@ and open the template in the editor.
         <?php
         echo "teste_jacy";
         echo "sup_coco";
+        dd;
+        
         // put your code here
         ?>
     </body>
