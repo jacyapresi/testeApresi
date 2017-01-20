@@ -12,7 +12,7 @@ and open the template in the editor.
     <body>
         <?php
         echo "teste_jacy";
-        echo "sup";
+        echo "sup_coco";
         // put your code here
         ?>
     </body>
