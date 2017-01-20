@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        echo "teste_jacy_neguinho";
+        echo "teste_jacy";
         echo "sup";
         // put your code here
         ?>
