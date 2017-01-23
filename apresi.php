@@ -10,3 +10,4 @@ echo "terere";
 echo "pirocada pra fora";
 echo "bleu";
 echo "por cima";
+echo "taquió";
