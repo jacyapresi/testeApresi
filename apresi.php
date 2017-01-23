@@ -12,4 +12,5 @@ echo "bleu";
 echo "por cima";
 echo "to com medo,m me abraça";    
 echo "taquió";
+echo "dia 23";
 echo "cavalo";
