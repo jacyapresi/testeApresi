@@ -1,0 +1,42 @@
+.imagem {
+FLOAT: RIGHT;
+}
+
+.nome {
+color: rgb(1, 145, 197);
+font-size: 40px;
+font-style: inherit;
+font-family: fantasy;
+}
+
+.dados {
+font-size: 25;
+font-family: fantasy;
+}
+
+.SubTitulo{
+font-size: 35px;
+font-family: fantasy;
+color: gray;
+}
+
+.dados2 {
+font-size: 18;
+font-family: -webkit-pictograph;
+}
+
+.img{
+width: 50px;
+height: 50px;
+}
+
+.classdiv{
+	position: absolute;
+	right: 10px;
+	top: 170px; 
+
+}
+
+.tamanhoglyf{
+font-size: 30px;
+}
