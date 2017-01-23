@@ -8,4 +8,4 @@
 
 echo "terere";
 echo "parara";
-?>
+
