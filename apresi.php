@@ -10,4 +10,5 @@ echo "terere";
 echo "pirocada pra fora";
 echo "bleu";
 echo "por cima";
+echo "to com medo,m me abraça";    
 echo "taquió";
